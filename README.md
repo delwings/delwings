@@ -1,6 +1,6 @@
-![Delwin González Banner](bannergs.png)
+# ¡Hola a todos! 👋
 
-# ¡Hola! Mi nombre es Delwin González 👋
+![Delwin González Banner](bannergs.png)
 
 ---
 ### 🛠️ Perfil Técnico
